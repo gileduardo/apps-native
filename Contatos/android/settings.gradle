@@ -1,0 +1,3 @@
+rootProject.name = 'Contatos'
+
+include ':app'
